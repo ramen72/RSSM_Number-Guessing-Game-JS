@@ -13,7 +13,7 @@ body {
     background: rgba(0, 0, 0, 0.7);
     border-radius: 10px;
 }
-.input-box{
+.playerOneInput{
     margin: 20px 0;
     min-height: 13px;
     padding: 10px;
@@ -24,7 +24,7 @@ body {
     font-size: 16px;
 }
 
-button {
+.playerOneButton {
     background: #ff6b6b;
     color: white;
     border: none;
